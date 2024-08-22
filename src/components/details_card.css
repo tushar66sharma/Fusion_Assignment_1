@@ -1,0 +1,20 @@
+.card {
+    width: 200px;               /* Set the width to 238px */
+    height: 230px;              /* Set the height to 218px */
+    background-color: #f0f0f0;  /* Light gray color */
+    border-radius: 15px;        /* Rounded corners with a radius of 15px */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow effect */
+    padding: 20px;              /* Padding inside the card */
+
+}
+
+.card h2 {
+    text-align: center;         /* Center the heading */
+    margin-bottom: 15px;        /* Add some space below the heading */
+}
+
+.card h4 {
+    text-align: left;           /* Align all h4 elements to the left */
+    margin: 5px 0; 
+    margin-bottom: 15px;             /* Add some space between each h4 element */
+}

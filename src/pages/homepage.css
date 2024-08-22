@@ -1,0 +1,47 @@
+.homepage {
+    padding: 10px;
+    width:73%;
+}
+
+.top-section {
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
+.professional-profile {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.professional-profile h2 {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 0; /* Align the heading directly with the ProfileCard */
+}
+
+.professional-profile hr {
+    width: 100%; /* Make the line span the full width of the parent */
+    margin-left: 0; /* Align with the heading */
+    border: none;
+    border-top: 1px solid #000; /* Black line */
+}
+.other-cards{
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+    margin-left:20px;
+    width:100%;
+    gap:40px;
+    
+
+}
+
+
+
